@@ -4,6 +4,5 @@ The collatz conjecture is a mathematical phenomena where if you perform a number
 
 the coding challenge here is to output the length of the operations required to reach 1
 
-,[->+>+<<]>[->--<]>. Divider Function (for even numbers does not work on odd numbers yet)_ The plan is to get it to work on odd numbers now_ 
+,[[->+>]+[<<->>>]<<<].>.>. Divider Function (for even numbers does not work on odd numbers yet)_ The plan is to get it to work on odd numbers now_ 
 
-,>>[<<-->+>] Work in Progress 
