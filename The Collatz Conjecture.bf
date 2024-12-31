@@ -8,4 +8,4 @@ the coding challenge here is to output the length of the operations required to 
 [->>+<<[->>>+<<<[<]]>]>>[-<->]< Checks if inputted value is even or odd_ Returns 1 if odd returns 0 if even_ 
 [<<<<[->+++<]>+>>>-]<<<] If and else statements deciding whether or not the number in question is odd or even_ KNOWN BUGS: this does not work if the number is even_ 
 
-->>+<<[->>>+<<<[<]]> disconnected part of the code before 
+->>+<<[->>>+<<<[<]]> disconnected part of the code that divides_
