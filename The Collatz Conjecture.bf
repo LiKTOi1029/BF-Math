@@ -3,3 +3,6 @@
 <-[+<<<<[->>+<<[->>>+<<<[<]]>]] If even then divide by two_
 >+[[-<<<<<[->>>+++<<<]>>>[+>]<<<]->]<+[-] Else odd then multiply by 3 and add 1
 +[->+]-<<<[-<<<+>>[-<<>>]>]<<<<<<<<+>>>>>[->]<]<<<<<. Repeater Function
+
+Found Bugs_ release halted until fixed_
+1_ Odd numbers may return the wrong outputs_ Debugging to figure out tomorrow_
