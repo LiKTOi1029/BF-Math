@@ -6,4 +6,4 @@
 +[->+]-<<<[-<<<+>>[-<<>>]>]<<<<<<<<+>>>>>[->]<]<<<<<. Repeater Function
 
 Found Bugs_ release halted until fixed_
-1_ Odd numbers may return the wrong outputs_ Debugging to figure out tomorrow_
+1_ Odd numbers may return wrong outputs_ This is due to the if and ifelse conditions on line 4 and 5 malfunctioning_
