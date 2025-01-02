@@ -1,9 +1,9 @@
-The collatz conjecture is a mathematical phenomena where if you perform a number of simple operations over and over you will eventually reach one:
-1 If the inputted number is EVEN then divide by two
-2 If the inputted number is ODD then multiply by three and add one
-
-the coding challenge here is to output the length of the operations required to reach 1
-
-->,[[->>+>+<<<]>>>[-<<<+>>>]< Save the value in a separate slot_ The value at pointer will be lost in detemining odd or even_
+>>>>>>>-<<<<<< Debugging line
+,<-[+>[->>+>+<<<]>>>[-<<<+>>>]< Save the value in a separate slot_ The value at pointer will be lost in detemining odd or even_
 [->>+<<[->>>+<<<[<]]>]>>[-<->] Checks if inputted value is even or odd_ Returns 1 if odd returns 0 if even_ 
-<-[+.<.-<]>+[[.-]->]<+[-]<< Conditonal returns 2 outputs if even elseif 1 output odd_
+<-[+<<<<[->>+<<[->>>+<<<[<]]>]] If even then divide by two_
+>+[[-<<<<<[->>>+++<<<]>>>[+>]<<<]->]<+[-] Else odd then multiply by 3 and add 1
++[->+]-<<<[-<<<+>>[-<<>>]>]<<<<<<<<+>>>>>[->]<]<<<<<. Repeater Function
+
+Found Bugs_ release halted until fixed_
+1_ Odd numbers may return the wrong outputs_ Debugging to figure out tomorrow_
