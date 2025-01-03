@@ -7,3 +7,8 @@
 
 Found Bugs_ release halted until fixed_
 1_ Odd numbers may return wrong outputs_ This is due to the if and ifelse conditions on line 4 and 5 malfunctioning_
+
+UPDATE 2025/1/2
+The reason for this is because the cursor ends up in the wrong locations and calculates the wrong bytes causing malfunctions_
+Therefore_ I am deprecating this from here on out and recoding it into a different format altogether_ The entire code will
+hence require a total redo_ 
