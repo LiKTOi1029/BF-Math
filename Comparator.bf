@@ -37,6 +37,6 @@ until it just about worked and then called it a day_ I don't guarantee that JOHN
 
 VERSION BRIGGINS
 
->,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>] SCRIPT PREP 
+>,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<<[-]> SCRIPT PREP 
 
 
