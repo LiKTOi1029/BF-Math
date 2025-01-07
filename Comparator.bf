@@ -32,11 +32,24 @@ Condition (1|0) RETURN $
 MINIFIED
 >,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<-[>>+++++[-<++++++++>]-<.<+]+[>>+[->>++++++[-<++++++>]<.[<<+>>-]<<<-]][-[+<-]]
 
-The difference between the JOHNNY and ZOEY is that ZOEY is a lot more organized in how it executes the code while JOHNNY was something that I coded
-until it just about worked and then called it a day_ I don't guarantee that JOHNNY will work in all situations while ZOEY will definitely work for most_
-
-VERSION BRIGGINS
+VERSION BRIGGINS 2 CONDITIONS
 
 >,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<<[-]> SCRIPT PREP 
 
+Condition (0) RETURN $
+-[+
+	>++++++
+	[
+		->++++++<
+	]
+]
+Condition (1) RETURN *
+-[++
+	>++++++
+	[
+		->+++++++<
+	]
+][-]
 
+MINIFIED
+>,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<<[-]>-[+>++++++[->++++++<]]-[++>++++++[->+++++++<]][-]
