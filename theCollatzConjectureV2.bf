@@ -3,7 +3,8 @@ INITIALIZATION PERIOD
 [<<<+<+>>>>-]<<<[>>>+<<<-]>>> Storing value and preparing for processing_
 
 PROCESSING PERIOD
-[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<.<. Divide by two and prepare for comparison and operation_
+[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<< Divide by two and prepare for comparison and operation_
 [-] The setup for comparator
--[+>++++++[->++++++<]]-[++>++++++[->+++++++<]][-]
+-[+>++++++[->++++++<]<+>]< Condition (0) Divide input by 2
+-[+>++++++[->+++++++<]]>>. Condition (1) Mutiply input by 3 and add 1
 +[-<+]- Returning to start
