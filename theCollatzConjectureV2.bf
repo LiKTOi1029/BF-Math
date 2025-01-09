@@ -5,5 +5,8 @@ INITIALIZATION PERIOD
 PROCESSING PERIOD
 [->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<.<. Divide by two and prepare for comparison and operation_
 [-] The setup for comparator
--[+>++++++[->++++++<]]-[++>++++++[->+++++++<]][-]
+-[+
+	>++++++[->++++++<]]
+-[++
+	>++++++[->+++++++<]][-]
 +[-<+]- Returning to start

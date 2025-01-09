@@ -37,14 +37,14 @@ VERSION BRIGGINS 2 CONDITIONS
 >,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<<[-]> SCRIPT PREP 
 
 Condition (0) RETURN $
--[+
+-[++
 	>++++++
 	[
 		->++++++<
-	]
+	]<
 ]
 Condition (1) RETURN *
--[++
+-[+
 	>++++++
 	[
 		->+++++++<
