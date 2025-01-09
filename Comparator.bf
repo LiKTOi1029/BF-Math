@@ -37,22 +37,19 @@ VERSION BRIGGINS 2 CONDITIONS
 >,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<<[-]> SCRIPT PREP 
 
 Condition (0) RETURN $
--[++
+-[+
 	>++++++
 	[
 		->++++++<
-	]<
-]
+	]
+<+>]<
 Condition (1) RETURN *
 -[+
 	>++++++
 	[
 		->+++++++<
 	]
-][-]
+]
 
 MINIFIED
->,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<<[-]>-[+>++++++[->++++++<]]-[++>++++++[->+++++++<]][-]
-
-KNOWN BUGS:
-1_ VERSION BRIGGINS runs both the even and odd conditionals if input is even_
+>,[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<<[-]>-[+>++++++[->++++++<]<+>]<-[+>++++++[->+++++++<]]
