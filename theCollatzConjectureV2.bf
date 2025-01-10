@@ -6,5 +6,12 @@ PROCESSING PERIOD
 [->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<< Divide by two and prepare for comparison and operation_
 [-] The setup for comparator
 -[+>++++++[->++++++<]<+>]< Condition (0) Divide input by 2
--[+>++++++[->+++++++<]]>>. Condition (1) Mutiply input by 3 and add 1
-+[-<+]- Returning to start
+-[+>+
+	[+[-<+]-<< Go to the beginning
+    	[->>>>+<<<<]>>>>[-<<<+++<+++>>>>]<<<+<+>>> Pull from memory_ Multiply by 3_ add 1
+        -[+>-] Search for the stray 1 and remove it
+        +[->+]- Seek the end of the code block
+        <+ Add 1 to Length
+        +[-<+]->> Seek the start of the code block and reset position
+    ]
+] Condition (1) Mutiply input by 3 and add 1
