@@ -3,8 +3,8 @@ INITIALIZATION PERIOD
 [<<<+<+>>>>-]<<<[>>>+<<<-]>>> Storing value and preparing for processing_
 
 PROCESSING PERIOD
-[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<< Divide by two and prepare for comparison and operation_
-[-] The setup for comparator
+[[->>+<<[->>>+<<<[>]]<]>>>>[-<-<+>>]<< Divide by two and prepare for comparison and operation_
+[-]> The setup for comparator
 -[+>+
 	[+[-<+]-<< Go to beginning and move pointer to memory
 		[->>>>+<<<<]>>>>>>[-]<<[->>+<<[->>>+<<<[>]]<] Pull from memory_ Divide by 2_
@@ -25,3 +25,6 @@ PROCESSING PERIOD
     ]
 ] Condition (1) Mutiply input by 3 and add 1
 << Back to input and prepare for 1 check
+-[+>]<] Check to see if output is 1_ 
++[->+]- Go to the end of code block
+<. Print output
